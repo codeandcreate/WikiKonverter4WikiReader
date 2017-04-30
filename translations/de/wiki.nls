@@ -1,0 +1,35 @@
+# Messages for German (Deutsch)
+# Localise WikiReader at translatewiki.net
+# See http://translatewiki.net/wiki/Translating:WikiReader for more information.
+change_password=Passwort ändern
+clear_history=Verlauf leeren
+enter_new_password=Neues Passwort
+enter_old_password=Altes Passwort
+enter_password=Passwort eingeben
+filter_options=Filteroptionen
+history_title=Verlauf
+keep_filter_off=Filter nicht speichern
+keep_filter_on=Filter speichern
+license_text=<title>
+no=Nein
+no_history=Kein Verlauf
+no_results=Keine Einträge gefunden
+ok=Ok
+parental_controls=Kindersicherung
+passwords_not_match=Die Passwörter stimmen nicht überein.
+please_wait=Bitte warten...
+protection=Einige Wikipedia-Einträge sind möglicherweise nicht für Minderjährige geeignet. Bitte setzen Sie einen Passwortschutz.
+r=R
+re_enter_new_password=Neues Passwort erneut eingeben
+re_enter_password=Passwort erneut eingeben
+restricted=Dieser Eintrag kann nicht für Minderjährige geeignet sein. Bitte setzen Sie einen Passwortschutz.
+searching=Suche...
+select_wiki=Enzyklopädie auswählen
+set_filter=Wenn die Filterung eingeschalten ist, ist für bestimmte Artikel ein Passwort nötig
+set_password=Passwort setzen.
+try_again=Falsch. Bitte versuchen Sie es erneut.
+turn_filter_off=Filter ausschalten
+turn_filter_on=Filter einschalten
+type_a_word=Geben Sie ein Suchwort ein.
+wiki_name=#wikiTitle#
+yes=Ja

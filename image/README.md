@@ -1,0 +1,1 @@
+Hier liegt dann die fertige depedia für die SD-Karte.
