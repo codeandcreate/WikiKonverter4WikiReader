@@ -1,6 +1,6 @@
 # WikiKonverter4WikiReader
 
-Eine vorgepatchte OpenMoko Wikireader Entwicklungsumgebung um auf einem aktuellen Linux (getestet auf Ubuntu 17.04) einen Wikiexport (xml) für den WikiReader zu erstellen.
+Eine vorgepatchte OpenMoko Wikireader Entwicklungsumgebung um auf einem aktuellen Linux (getestet auf Ubuntu 17.04) einen Wikiexport (xml) für den WikiReader zu konvertieren.
 
 ## Installation
 
@@ -23,10 +23,10 @@ Beispielsweise alle Artikel einer Kategorie wie 'Kategorie:Linux'.
 ## Mögliche Probleme
 
 1. Es wurden nicht alle 6 Dateien erstellt
-  * Eventuell existieren in der XML doppelte Artikel als Links auf den Hauptartikel. Diese Links mit einem Texteditor löschen
-  * Parserfehler - Hier müssen die Artikel mit Artikeln, die ohne Probleme durchlaufen verglichen werden und besondere Formatierungen entfernt werden. Der Parser ist leider sehr pingelich... 
+  * Eventuell existieren in der XML doppelte Artikel als Links auf den jeweiligen Hauptartikel. Diese Links müssen mit einem Texteditor entfernt werden.
+  * Parserfehler - Hier müssen die Artikel mit Artikeln, die ohne Probleme durchlaufen verglichen werden und besondere Formatierungen entfernt werden. Der Parser ist leider sehr pingelig... 
 2. Debugging
-  * Im build.sh Script werden die meisten Meldungen über eine Umgeleitete Ausgabe nach /dev/null versteckt. Einfach ">> /dev/null" in Zeile 18 entfernen um zu sehen, wo der Compiler probleme hat.
+  * Im build.sh-Script werden die meisten Meldungen über eine umgeleitete Ausgabe nach /dev/null versteckt. Einfach ">> /dev/null" in Zeile 18 entfernen um zu sehen, wo der Compiler Probleme hat.
 
 ## Änderungen am Entwicklungskit
 
